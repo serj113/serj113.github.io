@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.serj113.imaginemovies",
+    "package_name": "com.gdn.blibli.mta",
     "sha256_cert_fingerprints":
     ["4E:73:75:7C:DB:5C:0F:FB:7B:72:BC:1E:22:AE:A9:1D:DD:13:EE:58:23:CB:A0:A1:2E:4C:A4:55:9C:15:61:C1"]
   }
